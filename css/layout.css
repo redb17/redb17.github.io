@@ -792,6 +792,11 @@ call-to-action .button {
    padding-top: 30px;
    color: #636363;
 }
+#about_me {
+   background: #191919;
+   padding-top: 30px;
+   color: #636363;
+}
 #contact .section-head { margin-bottom: 42px; }
 
 #contact a, #contact a:visited  { color: #11ABB0; }
